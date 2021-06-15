@@ -111,6 +111,13 @@
   resolved "https://registry.yarnpkg.com/@arr/every/-/every-1.0.1.tgz#22fe1f8e6355beca6c7c7bde965eb15cf994387b"
   integrity sha512-UQFQ6SgyJ6LX42W8rHCs8KVc0JS0tzVL9ct4XYedJukskYVWTo49tNiMEK9C2HTyarbNiT/RVIRSY82vH+6sTg==
 
+"@auto/vue-router-ioms@^4.0.8":
+  version "4.0.8"
+  resolved "http://r.npm.corpautohome.com/@auto/vue-router-ioms/download/@auto/vue-router-ioms-4.0.8.tgz#50f73a33edfda8fad62c3ee8f979779673af2ce9"
+  integrity sha1-UPc6M+39qPrWLD7o+Xl3lnOvLOk=
+  dependencies:
+    "@vue/devtools-api" "^6.0.0-beta.12"
+
 "@babel/code-frame@^7.0.0", "@babel/code-frame@^7.10.4", "@babel/code-frame@^7.12.13":
   version "7.12.13"
   resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.12.13.tgz#dcfc826beef65e75c50e21d3837d7d95798dd658"

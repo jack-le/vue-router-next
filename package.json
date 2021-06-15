@@ -1,6 +1,6 @@
 {
   "name": "vue-router",
-  "version": "4.0.8",
+  "version": "1.0.1",
   "main": "dist/vue-router.cjs.js",
   "unpkg": "dist/vue-router.global.js",
   "jsdelivr": "dist/vue-router.global.js",
@@ -61,6 +61,7 @@
     "attributes": "vetur/attributes.json"
   },
   "dependencies": {
+    "@auto/vue-router-ioms": "^4.0.8",
     "@vue/devtools-api": "^6.0.0-beta.12"
   },
   "devDependencies": {

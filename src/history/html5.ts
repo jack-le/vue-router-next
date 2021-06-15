@@ -71,6 +71,7 @@ function useHistoryListeners(
   }: {
     state: StateEntry | null
   }) => {
+    // 此时的url因该已经变成新的url
     const to = createCurrentLocation(base, location)
     const from: HistoryLocation = currentLocation.value
     const fromState: StateEntry = historyState.value
